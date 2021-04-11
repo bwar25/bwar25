@@ -1,6 +1,7 @@
 # Hello! Welcome to my GitHub.
 **Credit:** 
-Thanks to: Ken Jee & Data Professor (https://www.youtube.com/watch?v=mEZ1Hj5yQ-8)
+<br/>
+Thanks to: Ken Jee & Data Professor
 <a href="https://www.youtube.com/watch?v=mEZ1Hj5yQ-8"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <!--
